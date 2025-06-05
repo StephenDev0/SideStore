@@ -34,7 +34,6 @@ extension AppDelegate
     static let exportCertificateCallbackTemplateKey = "callback"
 }
 
-@UIApplicationMain
 final class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
